@@ -14,7 +14,12 @@ ___check if triple under score works___
 `text between two backticks
 same region`
 fdfdfdfd
-```text between three backticks```
+```
+text between 
+three backticks
+```
+
+~~text strike down~~
 
 
 squar bracket for link name and round bracket for link
