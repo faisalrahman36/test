@@ -21,3 +21,13 @@ squar bracket for link name and round bracket for link
 
 [google](https://www.google.com/)
 
+
+use dash for unordered list
+- t
+- tt
+
+use number with dot for ordered list
+
+1. ww
+2. ddd
+
