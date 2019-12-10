@@ -5,3 +5,6 @@ Test
 __bold using double under score__
 *italic using single asterisk*
 _italic using single under score_ 
+
+***all bold and italic using triple asterisk***
+___check if triple under score works___
